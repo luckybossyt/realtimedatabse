@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87156900312",
+    "project_id": "realtimedatabseexample-63373",
+    "storage_bucket": "realtimedatabseexample-63373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87156900312:android:91be022d72a50ad107b2ad",
+        "android_client_info": {
+          "package_name": "com.lakshya.realtimedatabseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87156900312-p1mlpt1g26fshnnrm72saobo1465g94p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcN9B10aWpRE5R5cGrq4xKnjM-izO6t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87156900312-p1mlpt1g26fshnnrm72saobo1465g94p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
